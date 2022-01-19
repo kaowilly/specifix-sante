@@ -1,1 +1,1 @@
-# SpecifixSante
+# specifix-sante
